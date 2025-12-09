@@ -252,5 +252,3 @@ const user = await firstValueFrom(
 
 4. **Mongoose CastError**
    - Ensure your DTO and schema match the data sent to MongoDB.
-
----
