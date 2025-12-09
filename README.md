@@ -147,8 +147,8 @@ MONGO_URI=mongodb://localhost:27017/events_db
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/my-nest-app-microservice.git
-cd my-nest-app-microservice
+git clone https://github.com/Piraveen17/NestJS-Microservice-Authentication-Template.git
+cd NestJS-Microservice-Authentication-Template
 ```
 
 2. Install dependencies for each service:
